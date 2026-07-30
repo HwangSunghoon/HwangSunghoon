@@ -8,7 +8,7 @@
 
 - 데이터 분석 및 통계적 모델링
 - 머신러닝과 딥러닝
-- LLM Agent 및 RAG
+- Multi agent, LLM Agent 및 RAG
 - 데이터 기반 서비스 개발
 - 백엔드 시스템과 iOS 애플리케이션
 
@@ -89,7 +89,7 @@
 
 - 통계적 추론과 데이터 분석 방법론
 - 머신러닝 및 딥러닝 모델의 설계와 평가
-- LLM Agent와 RAG 시스템
+- Multi agent, LLM Agent와 RAG 시스템
 - AI 모델을 실제 서비스에 적용하는 방법
 - 백엔드 시스템 설계와 배포
 
